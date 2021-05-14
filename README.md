@@ -5,7 +5,7 @@ DISASSEMBLY
 ![screen](Screenshot_2021-01-21-09-26-52.jpg)     
 
 CPU PINOUT      
-![screen](Screenshot_2021-01-21-09-26-52.jpg)     
+![screen](32U4PinMapping.png)     
 
 BOARD TRACE       
 ![screen](Screenshot_2021-01-21-09-26-52.jpg)   
