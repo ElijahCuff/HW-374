@@ -8,6 +8,6 @@ CPU PINOUT
 ![screen](32U4PinMapping.png)     
 
 BOARD TRACE       
-![screen](Screenshot_2021-01-21-09-26-52.jpg)   
+![screen](IMG_20210514_013748.jpg)   
 
 
