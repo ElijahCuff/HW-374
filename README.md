@@ -15,7 +15,7 @@ However in this case - the clone is actually SMALLER & MORE ROBUST than the Devi
  
 ### BOARD TRACE
 DISASSEMBLY     
-![screen](IMG_20210514_020045.jpg)     
+![screen](IMG_20210514_015844.jpg)     
 
 CPU PINOUT      
 ![screen](32U4PinMapping.png)     
