@@ -1,5 +1,6 @@
 # HW-374
-Arduino Clone Board Trace - ATmega32u4 Metal USB Device     
+Arduino Clone Board Trace - ATmega32u4 Metal USB Device       
+a.k.a BAD USB / BadUsb
      
 ### History
 These small devices are known by many FAKE names on the internet, mostly using the name Arduino ATmega32u4 & Arduino Beetle Board.   
@@ -24,3 +25,6 @@ BOARD TRACE
 ![screen](IMG_20210514_013748.jpg)   
 
 
+SECURITY INFORMATION AND PROCEDURES      
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/would-you-exchange-your-security-for-a-gift-card/     
+  
