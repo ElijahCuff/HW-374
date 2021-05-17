@@ -2,8 +2,7 @@
 Arduino Clone Board Trace - ATmega32u4 Metal USB Device       
 a.k.a BAD USB / BadUsb
 
-EXAMPLE PRODUCTS       
-![screen](Screenshot_20210517-103635%7E2.png)   
+![screen](IMG_20210514_014419.jpg)   
 
 
      
