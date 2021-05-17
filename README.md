@@ -10,7 +10,7 @@ a.k.a BAD USB / BadUsb
 These small devices are known by many FAKE names on the internet, mostly using the name Arduino ATmega32u4 & Arduino Beetle Board.   
 After opening up the device, it is not a Arduino at all - it is a cheap Chinese clone.   
  
-However in this case - the clone is actually SMALLER & MORE ROBUST than the Devices it is Pretending to be, the board is actually marked as HW-374, so this is what I'll refer to it as.  
+However in this case - the clone is actually SMALLER & MORE ROBUST than the Devices it is Pretending to be, the board is  marked as HW-374, so this is what I'll refer to it as.  
  
        
 ### PROJECT
