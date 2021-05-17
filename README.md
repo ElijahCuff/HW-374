@@ -36,5 +36,4 @@ BOARD TRACE
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/would-you-exchange-your-security-for-a-gift-card/     
   
 
-https://github.com/WokeWorld/HW-374/blob/main/Screenshot_20210517-103635%7E2.png
 
