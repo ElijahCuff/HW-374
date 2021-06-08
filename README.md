@@ -1,5 +1,5 @@
 # HW-374
-Arduino Clone Board Trace - ATmega32u4 Metal USB Device       
+Arduino Clone Board A.K.A BadUSB Trace - ATmega32u4 Metal USB Device       
 a.k.a BAD USB / BadUsb 
 
 ![screen](IMG_20210514_014419.jpg)   
