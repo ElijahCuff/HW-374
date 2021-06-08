@@ -30,7 +30,8 @@ PINS
 • 15    
 • 16      
 • VCC 5v    
-• GND     
+• GND    
+• RESET      
       
 With 4 easily accessible digital pins, we can create some rather complex hardware controllers, the first thing in my mind is Animatronics with Servo motors.
      
